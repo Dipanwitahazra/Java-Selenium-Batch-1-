@@ -1,0 +1,5 @@
+ <suite name="MySuite">
+ <listeners>
+ <listener class-name="day_30.MyAlterSuiteListener"/>
+ </listeners>
+ </suite>
